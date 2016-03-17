@@ -1,0 +1,5 @@
+-js x.jx
+-cp src
+--no-output
+
+mtgx.Card
