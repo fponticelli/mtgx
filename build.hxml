@@ -2,4 +2,8 @@
 -cp src
 --no-output
 
-mtgx.Card
+mtgx.json.Card
+mtgx.json.ForeignName
+mtgx.json.Legality
+mtgx.json.Ruling
+mtgx.json.Set
